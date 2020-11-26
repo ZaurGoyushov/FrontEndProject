@@ -1,9 +1,27 @@
-- by tagname (body,head,section,h3)
-- by id (#header,#partners )
-- by classname (.)
-- combining (#categories,#header)
-- nested naming
+- html tags
+- html attributes
+- css select items by class name,tag name and id
+- css width, height
+- margin
+- padding
+- display
+- border
+- background
+- color , rgb and rgba functions
 
-# Tools for accelarated learning
+# Day 02
+- using images
+- ordered and unordered list
+- using icons 
+- using fonts 
+- using texts
+- flex 
+- justify-content
+- align-items
+- using fontawesome 
+- using google fonts
 
-- Developer Tools(F12 or right-click->inspect page)
+## Usefull resources
+- https://flexboxfroggy.com/
+- https://fontawesome.com/how-to-use/on-the-web/referencing-icons/basic-use
+- https://fonts.google.com/
