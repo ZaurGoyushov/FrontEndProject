@@ -43,3 +43,17 @@
 - https://fatihhayrioglu.com/css-ile-konumlandirmapositioning/
 - https://cssgradient.io/
 - https://ishadeed.com/article/learn-css-positioning/#demo
+
+# Day 04
+
+- SASS 
+    - Variables
+    - Nesting
+    - Partial
+    - Extend
+- Working with SASS at Visual Studio Code
+
+## Usefull resources
+- https://scotch.io/tutorials/getting-started-with-sass
+- https://sass-lang.com/guide
+- https://medium.com/@kishandth.sivapalasundaram/how-to-start-using-sass-in-visual-studio-code-5469787f18bf

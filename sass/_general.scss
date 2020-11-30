@@ -1,0 +1,17 @@
+body {
+    margin: 0px;
+    font-family: $main-font;
+}
+
+// Bu class elementlerin hem x hem de y oxunda ortalanmasini temin edir
+.flex-full-center {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.flex-horizontal-start {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}

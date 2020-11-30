@@ -1,0 +1,26 @@
+$main-width:1200px;
+$margin:10px;
+$padding:10px;
+$main-color:red;
+.container {
+    width: $main-width;
+    margin: 0 auto;
+    padding: $padding;
+    background: $main-color;
+    border: 1px solid $main-color;
+    .row {
+        margin: $margin 0px;
+        display: flex;
+        justify-content: space-between;
+        .column {
+            width: $main-width/3;
+            margin: $margin;
+            height: 350px;
+            border: 1px solid $main-color;
+            background: lighten($main-color, 30%);
+            img {
+                width: 100%;
+            }
+        }
+    }
+}

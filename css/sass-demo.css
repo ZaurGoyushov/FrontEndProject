@@ -1,0 +1,30 @@
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  padding: 10px;
+  background: red;
+  border: 1px solid red;
+}
+
+.container .row {
+  margin: 10px 0px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.container .row .column {
+  width: 400px;
+  margin: 10px;
+  height: 350px;
+  border: 1px solid red;
+  background: #ff9999;
+}
+
+.container .row .column img {
+  width: 100%;
+}
+/*# sourceMappingURL=sass-demo.css.map */
