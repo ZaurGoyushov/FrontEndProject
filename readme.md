@@ -1,3 +1,6 @@
+# Usefull resources for project 
+- https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax
+
 # Day 01
 - html tags
 - html attributes
