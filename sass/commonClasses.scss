@@ -1,0 +1,64 @@
+// variables
+$container-width:1200px;
+$margin-x:10px;
+$margin-2x:$margin-x*2;
+$padding-x:10px;
+$padding-2x:$padding-x*2;
+$main-color:green;
+// common classes
+.flex {
+    display: flex;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+}
+
+.justify-content-start {
+    justify-content: flex-start;
+}
+
+.justify-content-end {
+    justify-content: flex-end;
+}
+
+.justify-content-around {
+    justify-content: space-around;
+}
+
+.bg-color-green {
+    background: $main-color;
+    color: black;
+}
+
+.bg-color-red {
+    background: red;
+    color: $main-color;
+}
+
+.bg-color-blue {
+    background: brown;
+    color: white;
+}
+
+// custom classes
+.container {
+    width: $container-width;
+    margin: 0 auto;
+    border: 1px solid $main-color;
+    .row {
+        margin: $margin-2x 0px;
+        .column {
+            width: $container-width/3.5;
+            padding: $padding-x;
+            height: 350px;
+            // border: 1px solid $main-color;
+            // background-color: lighten($main-color, 40%);
+            img {
+                width: calc(100% + 20px);
+                margin-top: -10px;
+                margin-left: -10px;
+            }
+        }
+    }
+}

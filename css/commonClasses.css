@@ -1,0 +1,66 @@
+.flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.justify-content-between {
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.justify-content-start {
+  -webkit-box-pack: start;
+      -ms-flex-pack: start;
+          justify-content: flex-start;
+}
+
+.justify-content-end {
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: flex-end;
+}
+
+.justify-content-around {
+  -ms-flex-pack: distribute;
+      justify-content: space-around;
+}
+
+.bg-color-green {
+  background: green;
+  color: black;
+}
+
+.bg-color-red {
+  background: red;
+  color: green;
+}
+
+.bg-color-blue {
+  background: brown;
+  color: white;
+}
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+  border: 1px solid green;
+}
+
+.container .row {
+  margin: 20px 0px;
+}
+
+.container .row .column {
+  width: 342.85714px;
+  padding: 10px;
+  height: 350px;
+}
+
+.container .row .column img {
+  width: calc(100% + 20px);
+  margin-top: -10px;
+  margin-left: -10px;
+}
+/*# sourceMappingURL=commonClasses.css.map */
