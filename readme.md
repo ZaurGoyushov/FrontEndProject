@@ -57,3 +57,21 @@
 - https://scotch.io/tutorials/getting-started-with-sass
 - https://sass-lang.com/guide
 - https://medium.com/@kishandth.sivapalasundaram/how-to-start-using-sass-in-visual-studio-code-5469787f18bf
+
+# Day 05
+
+- SASS common classes
+- box-sizing:border-box
+- difference between common claases and extend method of SASS
+- best practise example with - margin and padding
+- calc() function 
+
+## Usefull resources
+- https://www.w3schools.com/cssref/func_calc.asp
+- https://css-tricks.com/multiple-class-id-selectors/
+- https://guyroutledge.github.io/box-model/
+- https://codepen.io/guyroutledge/pen/hgpez
+
+## Helpfull question for thinking
+- common classes vs sass extend
+- bordex-box vs (-) margin
