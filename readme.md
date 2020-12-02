@@ -78,3 +78,19 @@
 ## Helpfull question for thinking
 - common classes vs sass extend
 - bordex-box vs (-) margin
+
+# Day 06
+
+- Components
+- :hover
+- SASS Folder structure
+- cursor:pointer
+- transition 
+- css 12 column grid introduction
+
+
+## Usefull resources
+- https://medium.com/@luis_sserrano/how-to-structure-your-sass-codebase-78277c683c24
+- https://www.w3schools.com/cssref/sel_hover.asp
+- https://www.w3schools.com/css/css3_transitions.asp
+- https://css-tricks.com/developing-extensible-html-css-components/
