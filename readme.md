@@ -94,3 +94,12 @@
 - https://www.w3schools.com/cssref/sel_hover.asp
 - https://www.w3schools.com/css/css3_transitions.asp
 - https://css-tricks.com/developing-extensible-html-css-components/
+
+# Day 07
+
+- Attribute selectors (https://www.w3schools.com/css/css_attribute_selectors.asp)
+- CSS / SASS grid system  (https://jandrewniak.com/blog/creating-your-own-css-grid-system/)
+- CSS Filters (https://css-playground.com/view/39/css-filter-playground)
+
+
+
