@@ -1,6 +1,6 @@
 # Usefull resources for project 
 - [Github Syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
-- [Using HTML Preposessors ] (https://startae.com/blog/improve-your-development-workflow-using-html-preprocessors/#:~:text=A%20preprocessor%20is%20a%20program,Starta%C3%AA%20are%20Slim%20and%20Emblem.)
+- [Using HTML Preposessors ] (https://startae.com/blog/improve-your-development-workflow-using-html-preprocessors/#:~:text=A%20preprocessor%20is%20a%20program,Starta%C3%AA%20are%20Slim%20and%20Emblem)
 
 # Day 01
 - html tags
