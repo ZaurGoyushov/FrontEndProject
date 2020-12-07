@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "ACCA,AAAA,IAAI,CAAC;EACD,UAAU,EAAE,KAAK;EACjB,OAAO,EAHF,IAAI;EAIT,UAAU,EAAE,UAAU;EAEtB,MAAM,EAAE,iBAAiB;CAW5B;;AAhBD,AAMI,IANA,CAMA,GAAG,CAAC;EACA,KAAK,EAAE,uBAAuB;EAC9B,MAAM,EAAE,KAAK;EACb,UAAU,EAAE,KAAK;EACjB,MAAM,EAAE,KAAmB;CAC9B;;AAXL,AAYI,IAZA,CAYA,EAAE,CAAC;EACC,MAAM,EAdL,IAAI,CAcY,GAAG;CACvB",
+    "sources": [
+        "../sass/topics.scss",
+        "../sass/topics/_animation.scss"
+    ],
+    "names": [],
+    "file": "topics.css"
+}

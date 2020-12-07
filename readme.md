@@ -2,6 +2,7 @@
 # Layihə yazılan zaman istifadə olunan faydalı linklər
 - [Github Syntax](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax)
 - [Using HTML Preposessors ](https://startae.com/blog/improve-your-development-workflow-using-html-preprocessors/#:~:text=A%20preprocessor%20is%20a%20program,Starta%C3%AA%20are%20Slim%20and%20Emblem)
+- [Visual Studio Tips and Tricks](https://code.visualstudio.com/docs/getstarted/tips-and-tricks)
 
 # Gün 01
 - html tags
@@ -103,5 +104,17 @@
 - [CSS / SASS grid system](https://jandrewniak.com/blog/creating-your-own-css-grid-system/)
 - [CSS Filters](https://css-playground.com/view/39/css-filter-playground)
 
+
+# Gün 08
+## SASS istifadəsində diqqət olunacaq məqamlar
+    - Rənglər dəyişənlər halına gətirilməlidir
+    - Bütün səhifələrdə istifadə olunan məsafələr standartlaşdırılmalıdır
+    - Bir dəyər 2 ya da daha cox yerde istifadə olunubsa onun dəyişən halına gətirmək lazmdır
+## Javascript 
+    - [Variables](https://www.w3schools.com/js/js_variables.asp)
+    - [Data Types](https://www.w3schools.com/js/js_datatypes.asp)
+    - [Functions](https://www.w3schools.com/js/js_functions.asp)
+
+    
 
 
