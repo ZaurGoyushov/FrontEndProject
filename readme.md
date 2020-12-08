@@ -115,6 +115,19 @@
     - [Data Types](https://www.w3schools.com/js/js_datatypes.asp)
     - [Functions](https://www.w3schools.com/js/js_functions.asp)
 
+# Gün 09
+- Javascript functions
+- Javascript conditional statements
+- Javascript loops 
+- Javascript objects
+- Javascript constructor functions
+- Javascript class
+- DOM (Document Object Model)
+
+## Qaynaqlar
+- [Javascript basics](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+- [DOM Basics](https://www.youtube.com/watch?v=0ik6X4DJKCc)
+
     
 
 
