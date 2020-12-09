@@ -128,6 +128,12 @@
 - [Javascript basics](https://www.youtube.com/watch?v=hdI2bqOjy3c)
 - [DOM Basics](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 
-    
+# Gün 10
+
+## SASS
+    - [Using For Loop in SASS](https://www.gavsblog.com/blog/for-each-while-loops-sass-scss)
+## Javascript
+    - [Introduction To Dom](https://gabrieltanner.org/blog/javascript-dom-introduction)
+    - [The DOM Cheat Sheet](https://fundamentals.generalassemb.ly/11_unit/dom-cheatsheet.html)
 
 

@@ -673,4 +673,48 @@ body {
   font-size: 40px;
   text-align: center;
 }
+
+#events {
+  border: 1px solid gray;
+}
+
+#events .events-header {
+  text-align: center;
+}
+
+#events .events-header h2 {
+  text-transform: uppercase;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+#events .events-header p {
+  font-size: 14px;
+}
+
+#events .events-item {
+  height: 400px;
+  background: green;
+  overflow: hidden;
+}
+
+#events .events-item img {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  filter: brightness(0.4);
+  transition: all .3s ease;
+}
+
+#events .events-item:hover img {
+  transform: scale(1.2);
+}
+
+#events .events-footer {
+  text-align: center;
+}
+
+#events .events-footer a {
+  text-decoration: none;
+}
 /*# sourceMappingURL=style.css.map */
