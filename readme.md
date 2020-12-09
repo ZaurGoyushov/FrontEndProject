@@ -129,6 +129,13 @@
 - [DOM Basics](https://www.youtube.com/watch?v=0ik6X4DJKCc)
 
 # Gün 10
+- Javascript DOM nedir
+- DOM mentiqi
+- HTML Manipulasiya etmek ucun lazim olan siralama
+- Document obyektinin methodlari
+- document.querySelector() methodu
+- element.AddEventListener()methodu
+
 
 ## SASS
 - [Using For Loop in SASS](https://www.gavsblog.com/blog/for-each-while-loops-sass-scss)
