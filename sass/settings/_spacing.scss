@@ -1,84 +1,50 @@
 // Margins
 // General Margin
-.m-x {
-    margin: $spacing-x;
+@for $i from 1 through 4 {
+    .m-#{$i} {
+        margin: $spacing-1x*$i
+    }
+    .mt-#{$i} {
+        margin-top: $spacing-1x*$i
+    }
+    .mb-#{$i} {
+        margin-bottom: $spacing-1x*$i
+    }
+    .ml-#{$i} {
+        margin-left: $spacing-1x*$i
+    }
+    .mr-#{$i} {
+        margin-right: $spacing-1x*$i
+    }
+    .mx-#{$i} {
+        margin: 0px $spacing-1x*$i
+    }
+    .my-#{$i} {
+        margin: $spacing-1x*$i 0px;
+    }
 }
 
-.m-2x {
-    margin: $spacing-2x;
-}
-
-.m-3x {
-    margin: $spacing-3x;
-}
-
-.m-4x {
-    margin: $spacing-4x;
-}
-
-.mv-x {
-    margin: $spacing-x 0px;
-}
-
-.mv-2x {
-    margin: $spacing-2x 0px;
-}
-
-.mv-3x {
-    margin: $spacing-3x 0px;
-}
-
-.mv-4x {
-    margin: $spacing-4x 0px;
-}
-
-// Margin top
-.mt-x {
-    margin-top: $spacing-x;
-}
-
-.mt-2x {
-    margin-top: $spacing-2x;
-}
-
-.mt-3x {
-    margin-top: $spacing-3x;
-}
-
-.mt-4x {
-    margin-top: $spacing-4x;
-}
-
-// Paddings
-.p-x {
-    padding: $spacing-x;
-}
-
-.p-2x {
-    padding: $spacing-2x;
-}
-
-.p-3x {
-    padding: $spacing-3x;
-}
-
-.p-4x {
-    padding: $spacing-4x;
-}
-
-// Margin top
-.pt-x {
-    padding-top: $spacing-x;
-}
-
-.pt-2x {
-    padding-top: $spacing-2x;
-}
-
-.pt-3x {
-    padding-top: $spacing-3x;
-}
-
-.pt-4x {
-    padding-top: $spacing-4x;
+// padding 
+@for $i from 1 through 4 {
+    .p-#{$i} {
+        padding: $spacing-1x*$i
+    }
+    .pt-#{$i} {
+        padding-top: $spacing-1x*$i
+    }
+    .pb-#{$i} {
+        padding-bottom: $spacing-1x*$i
+    }
+    .pl-#{$i} {
+        padding-left: $spacing-1x*$i
+    }
+    .pr-#{$i} {
+        padding-right: $spacing-1x*$i
+    }
+    .px-#{$i} {
+        padding: 0px $spacing-1x*$i
+    }
+    .py-#{$i} {
+        padding: $spacing-1x*$i 0px;
+    }
 }
