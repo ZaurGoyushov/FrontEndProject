@@ -107,13 +107,13 @@
 
 # Gün 08
 ## SASS istifadəsində diqqət olunacaq məqamlar
-    - Rənglər dəyişənlər halına gətirilməlidir
-    - Bütün səhifələrdə istifadə olunan məsafələr standartlaşdırılmalıdır
-    - Bir dəyər 2 ya da daha cox yerde istifadə olunubsa onun dəyişən halına gətirmək lazmdır
+- Rənglər dəyişənlər halına gətirilməlidir
+- Bütün səhifələrdə istifadə olunan məsafələr standartlaşdırılmalıdır
+- Bir dəyər 2 ya da daha cox yerde istifadə olunubsa onun dəyişən halına gətirmək lazmdır
 ## Javascript 
-    - [Variables](https://www.w3schools.com/js/js_variables.asp)
-    - [Data Types](https://www.w3schools.com/js/js_datatypes.asp)
-    - [Functions](https://www.w3schools.com/js/js_functions.asp)
+- [Variables](https://www.w3schools.com/js/js_variables.asp)
+- [Data Types](https://www.w3schools.com/js/js_datatypes.asp)
+- [Functions](https://www.w3schools.com/js/js_functions.asp)
 
 # Gün 09
 - Javascript functions
@@ -131,9 +131,9 @@
 # Gün 10
 
 ## SASS
-    - [Using For Loop in SASS](https://www.gavsblog.com/blog/for-each-while-loops-sass-scss)
+- [Using For Loop in SASS](https://www.gavsblog.com/blog/for-each-while-loops-sass-scss)
 ## Javascript
-    - [Introduction To Dom](https://gabrieltanner.org/blog/javascript-dom-introduction)
-    - [The DOM Cheat Sheet](https://fundamentals.generalassemb.ly/11_unit/dom-cheatsheet.html)
+- [Introduction To Dom](https://gabrieltanner.org/blog/javascript-dom-introduction)
+- [The DOM Cheat Sheet](https://fundamentals.generalassemb.ly/11_unit/dom-cheatsheet.html)
 
 
