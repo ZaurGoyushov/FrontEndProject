@@ -1,0 +1,14 @@
+.flex {
+    display: flex;
+}
+
+$list:center,
+space-between,
+space-around,
+flex-start,
+flex-end;
+@each $item in $list {
+    .flex-#{$item} {
+        justify-content: $item;
+    }
+}

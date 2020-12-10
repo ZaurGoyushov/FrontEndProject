@@ -27,6 +27,17 @@
                 transform: scale(1.2)
             }
         }
+        .slider {
+            // display: flex;
+            // // flex-wrap: nowrap;
+            // flex-direction: row;
+            // width: 1200px;
+            position: relative;
+            .slider-item {
+                width: 600px;
+                display: inline-block;
+            }
+        }
     }
     .events-footer {
         text-align: center;

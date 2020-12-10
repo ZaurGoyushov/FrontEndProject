@@ -446,6 +446,30 @@ body {
   align-items: center;
 }
 
+.flex {
+  display: flex;
+}
+
+.flex-center {
+  justify-content: center;
+}
+
+.flex-space-between {
+  justify-content: space-between;
+}
+
+.flex-space-around {
+  justify-content: space-around;
+}
+
+.flex-flex-start {
+  justify-content: flex-start;
+}
+
+.flex-flex-end {
+  justify-content: flex-end;
+}
+
 .btn {
   border: none;
   background: none;
@@ -708,6 +732,15 @@ body {
 
 #events .events-item:hover img {
   transform: scale(1.2);
+}
+
+#events .events-item .slider {
+  position: relative;
+}
+
+#events .events-item .slider .slider-item {
+  width: 600px;
+  display: inline-block;
 }
 
 #events .events-footer {

@@ -143,4 +143,20 @@
 - [Introduction To Dom](https://gabrieltanner.org/blog/javascript-dom-introduction)
 - [The DOM Cheat Sheet](https://fundamentals.generalassemb.ly/11_unit/dom-cheatsheet.html)
 
+# Gün 11
+- document.querySelector()
+- document.querySelectorAll()
+- document.createElement()
+- element.setAttribute()
+- element.getAttribute()
+- element.appendChild()
+- element.removeChild()
+- element.getBoundingClientRect() 
+
+
+## DailyTask
+- Dinamik slayder yaratmaq ucun senari yazilmasi
+- Bu senariye esases gorulecek islerin cixarilmasi
+- Yuxarida geyd edilen methodlardan istifade ederek isin icrasi
+
 
